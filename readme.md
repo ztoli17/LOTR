@@ -4,6 +4,8 @@ Az ELTE TTK fizika szakának csodáit, aranyköpéseit, vicces pillanatait ötv�
 
 ## Kérések
 -Mindegy, hogy angolul vagy magyarul írjátok, a lényeg, hogy vicces legyen.
+
+
 -Bárki hozzáírhat, egy kérésem van, ha hozzáadtok valamit, azt ne a masterba tegyétek, majd én összefésülöm. Ez nem azért szükséges mert cenzúráznánk a poénokat, de a későbbiekben valami tematikát szeretnék építeni köré.
 
 ## Nevessetek jókat! Béke!
